@@ -1,0 +1,304 @@
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2020-01-25T16:05:17Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2020-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: 
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: 
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: 
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T08:39:04-0700
+Creation Date: 1997-09-15T00:00:00-0700
+Registrar Registration Expiration Date: 2028-09-13T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at 
+https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns4.google.com
+Name Server: ns3.google.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+
+Domain Name: twitter.com
+Registry Domain ID: 18195971_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2020-01-17T01:09:06Z
+Creation Date: 2000-01-21T11:28:17Z
+Registrar Registration Expiration Date: 2021-01-21T16:28:17Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Twitter, Inc.
+Registrant Organization: Twitter, Inc.
+Registrant Street: 
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94103
+Registrant Country: US
+Registrant Phone: +1.4152229670
+Registrant Phone Ext: 
+Registrant Fax: +1.4152220922
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Twitter, Inc.
+Admin Street: 
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94103
+Admin Country: US
+Admin Phone: +1.4152229670
+Admin Phone Ext: 
+Admin Fax: +1.4152220922
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Tech Admin
+Tech Organization: Twitter, Inc.
+Tech Street: 
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94103
+Tech Country: US
+Tech Phone: +1.4152229670
+Tech Phone Ext: 
+Tech Fax: +1.4152220922
+Tech Fax Ext: 
+Tech Email: 
+Name Server: NS4.P34.DYNECT.NET
+Name Server: b.r06.twtrdns.net
+Name Server: NS3.P34.DYNECT.NET
+Name Server: d.r06.twtrdns.net
+Name Server: c.r06.twtrdns.net
+Name Server: d01-02.ns.twtrdns.net
+Name Server: a.r06.twtrdns.net
+Name Server: d01-01.ns.twtrdns.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2020-01-15T16:52:39Z
+Creation Date: 1997-03-29T05:00:00Z
+Registrar Registration Expiration Date: 2028-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Facebook, Inc.
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: +1.6505434800
+Registrant Fax Ext:
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Facebook, Inc.
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: +1.6505434800
+Admin Fax Ext:
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Facebook, Inc.
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: +1.6505434800
+Tech Fax Ext:
+Tech Email: 
+Name Server: C.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+Name Server: A.NS.FACEBOOK.COM
+Name Server: D.NS.FACEBOOK.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+
+Domain Name: INSTAGRAM.COM
+Registry Domain ID: 121748357_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2018-03-01T19:43:29Z
+Creation Date: 2004-06-04T13:37:18Z
+Registrar Registration Expiration Date: 2027-06-04T13:37:18Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Instagram LLC
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Instagram LLC
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Instagram LLC
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: 
+Name Server: NS-1349.AWSDNS-40.ORG
+Name Server: NS-868.AWSDNS-44.NET
+Name Server: NS-384.AWSDNS-48.COM
+Name Server: NS-2016.AWSDNS-60.CO.UK
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+

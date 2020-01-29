@@ -1,0 +1,9 @@
+esteban$ ping 138.197.134.140
+PING 138.197.134.140 (138.197.134.140): 56 data bytes
+64 bytes from 138.197.134.140: icmp_seq=0 ttl=54 time=19.622 ms
+64 bytes from 138.197.134.140: icmp_seq=1 ttl=54 time=16.052 ms
+64 bytes from 138.197.134.140: icmp_seq=2 ttl=54 time=14.694 ms
+^C
+--- 138.197.134.140 ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 14.694/16.789/19.622/2.078 ms

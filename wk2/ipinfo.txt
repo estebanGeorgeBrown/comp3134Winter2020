@@ -1,0 +1,20 @@
+GeorgeBrown.ca
+IP Address: 198.96.86.202
+Geolocation: CA (Canada), ON, Ontario, M5T Toronto 
+
+Google.com
+172.217.3.110
+Geolocation: US (United States), CA, California, 94043 Mountain View 
+
+Twitter.com
+IP Address: 104.244.42.129
+Geolocation: US (United States), CA, California, 94103 San Francisco
+
+Facebook.com
+31.13.71.36
+Geolocation: IE (Ireland), N/A, N/A, N/A N/A 
+
+Instagram.com
+IP Address: 3.229.97.56
+Geolocation: US (United States), N/A, N/A, N/A N/A
+
