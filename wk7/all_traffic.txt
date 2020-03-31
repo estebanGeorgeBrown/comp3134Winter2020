@@ -1,0 +1,8 @@
+ > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1764380, win 18356, options [nop,nop,TS val 512691401 ecr 2453594430], length 0
+01:02:19.646966 IP CPE5c7695db9f99-CM5c7695db9f97.cpe.net.cable.rogers.com.38657 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1768936, win 18322, options [nop,nop,TS val 512691404 ecr 2453594431], length 0
+01:02:19.646970 IP CPE5c7695db9f99-CM5c7695db9f97.cpe.net.cable.rogers.com.38657 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1769204, win 18318, options [nop,nop,TS val 512691404 ecr 2453594431], length 0
+01:02:19.646977 IP CPE5c7695db9f99-CM5c7695db9f97.cpe.net.cable.rogers.com.38657 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1774384, win 18346, options [nop,nop,TS val 512691404 ecr 2453594433], length 0
+^C
+8216 packets captured
+8290 packets received by filter
+73 packets dropped by kernel
