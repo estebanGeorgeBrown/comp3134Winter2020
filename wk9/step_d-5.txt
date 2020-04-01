@@ -1,0 +1,6 @@
+What you see on the browser (the issue) ?
+ANS: Where are traversing our path in a different form
+%2e%2e%2f represents ../
+
+What sensitive information is given by this page ?
+ANS: Our contents when traversing the path

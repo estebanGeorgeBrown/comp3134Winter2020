@@ -1,0 +1,24 @@
+<h1>Weak Password</h1>
+<form method="post">
+<label>Password</label>
+<input type="password" name="password">
+<br/>
+<input type="submit">
+</form>
+<?php
+$password=$_POST['password'];
+if($password==123456 ||
+   $password==123456789 ||
+   $password==qwerty ||
+   $password==password ||
+   $password==111111 ||
+   $password==12345678 ||
+   $password==abc123 ||
+   $password==1234567 ||
+   $password==password1 ||
+   $password==12345){
+echo "<h2>Successfully authenticated </h2>";
+}
+else
+{}
+?>

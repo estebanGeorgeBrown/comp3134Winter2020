@@ -1,0 +1,6 @@
+What you see on the browser (the issue) ?
+ANS: There is no directory or file with the name hello
+
+What sensitive information is given by this page ?
+ANS: Is giving us the whole path,  showing us where we are, and 
+is scanning for the file and directory in our current dir

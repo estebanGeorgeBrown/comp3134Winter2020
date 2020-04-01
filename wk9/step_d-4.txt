@@ -1,0 +1,5 @@
+What you see on the browser (the issue) ?
+ANS: An array with a list of accesable dirs
+
+What sensitive information is given by this page ?
+ANS: Is giving us our directory structure in an array form
